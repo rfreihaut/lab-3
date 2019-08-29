@@ -1,0 +1,11 @@
+C:\Users\rfrei\source\repos\lab 3\bin\Debug\netcoreapp2.1\lab 3.deps.json
+C:\Users\rfrei\source\repos\lab 3\bin\Debug\netcoreapp2.1\lab 3.runtimeconfig.json
+C:\Users\rfrei\source\repos\lab 3\bin\Debug\netcoreapp2.1\lab 3.runtimeconfig.dev.json
+C:\Users\rfrei\source\repos\lab 3\bin\Debug\netcoreapp2.1\lab 3.dll
+C:\Users\rfrei\source\repos\lab 3\bin\Debug\netcoreapp2.1\lab 3.pdb
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.csprojAssemblyReference.cache
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.csproj.CoreCompileInputs.cache
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.AssemblyInfoInputs.cache
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.AssemblyInfo.cs
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.dll
+C:\Users\rfrei\source\repos\lab 3\obj\Debug\netcoreapp2.1\lab 3.pdb
